@@ -1,0 +1,28 @@
+name: test6
+favicon: null
+layout_spectrum: 0.4391202167607844
+typography_spectrum: 0.1324289597105235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7558371326886117
+  lightness: 0.2976349941454828
+  saturation: 0.6699892187025398
+  rhythmicContrast: 0.6807068418711424
+purpose: []
